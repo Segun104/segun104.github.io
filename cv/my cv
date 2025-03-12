@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="auhtor"content="Adeniyi Oluwasegun">
+    <meta discription="A toturial for learning basic HTML skills">
+    <meta name="keyword" content="Learn HTML">
+    <title>Home -  HTML Basics</title>
+    <link rel="icon" href="logo.png"> 
+    <img src="/logo.png" alt="logo" title="HTML Basic Toturial">
+    <link rel="stylesheet" href="Me.css"></link>
+</head>
+
+<body>
+  <hr>
+  <h1>ADENIYI OLUWASEGUN</h1>
+
+  <h2 style="color:rgb(66, 224, 51);">Junior frontend Developer</h2>
+
+  <P>Adewole Housing Estate</P>
+  <p>Ilorin</p>
+  <p>09162603735</p>
+  <p>Adeniyioluwasegun104@gmail.com</p>
+
+  <h2 style="color: blue;">Skills</h2>
+
+  <p>HTML,CSS,JavaScript,Accessibility,Figma to Design,Responsive,Web Design,<br>Technical Writing,Presentation.</p>
+
+  <h2 style="color: brown;">Education</h2>
+
+  <h1 style="color: blue;">Kwara State University,Malete-bSc computer science</h1>
+  <p>09-2025 to 07-29<br><li>software developent</li><li>website creation</li></p>
+
+  <h2 style="color: red;">One World Computer Center,Ilorin-Web Designer</h2>
+
+  <p>11-2024 to 08-2025</p>
+
+  <H2>List of achivements</H2>
+
+  <li>successfully built an ai that solve almost all problems</li>
+  <li>creation of efficient web pages</li>
+
+  <h3>list of skills acquired</h3> 
+<ol>
+  <li> Creation of Ads</li><li>formation of JavaScripts</li>
+</ol>
+<label style="color: yellowgreen;">Adeniyioluwasegun104@gmail.com or 09162603735</style></label>
+
+
+
+
+</body>
+
+</html>
+
+
+
+
